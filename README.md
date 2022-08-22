@@ -1,2 +1,2 @@
 # sandbox
-Testomeråde
+Omeråde for testing av git.
